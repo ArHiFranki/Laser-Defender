@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4348518261431675630}
   - component: {fileID: 4348518261431675631}
   - component: {fileID: 4348518261431675664}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Projectile_Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1620669914816272622}
   - component: {fileID: 1363659974286505668}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: laserRed07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
